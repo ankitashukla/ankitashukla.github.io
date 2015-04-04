@@ -1,0 +1,41 @@
+@import url('BebasNeue Light.ttf');
+
+@font-face {
+    font-family: "nokia-pure-headline-ultralight";
+    src: url("nokiapure.woff") format('woff');
+}
+html {
+	height: 100%;
+}
+
+body {
+	margin-top: 0;
+	font-family: "nokia-pure-headline-ultralight";
+	font-weight: 100;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#name {
+	font-size: 96px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	position: relative;
+	top: 100px;
+}
+
+.logo {
+	height: 40px;
+}
+
+.social {
+	position: relative;
+	top: 180px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
