@@ -1,0 +1,258 @@
+---
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2014-12-09-the-first-step-in-the-world-of-foss.markdown":
+  mtime: 2015-04-04 03:51:26.372107036 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2014-12-23-opw-mediawiki-spelling-dictionary-weeks-1-2.markdown":
+  mtime: 2015-04-04 09:48:24.939665989 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-01-11-opw-mediawiki-spelling-dictionary-weeks-3-4.markdown":
+  mtime: 2015-04-04 03:51:10.931932385 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-01-28-opw-mediawiki-spelling-dictionary-weeks-5.markdown":
+  mtime: 2015-04-04 03:50:01.851150436 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-01-28-opw-mediawiki-spelling-dictionary-week-7.markdown":
+  mtime: 2015-04-04 02:28:25.000000000 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-02-15-opw-mediawiki-spelling-dictionary-weeks-8-9.markdown":
+  mtime: 2015-04-04 03:50:44.151629355 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-02-28-opw-mediawiki-spelling-dictionary-weeks-10-11.markdown":
+  mtime: 2015-04-04 03:50:37.731556691 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-03-03-opw-mediawiki-spelling-dictionary-week-12.markdown":
+  mtime: 2015-04-04 03:51:04.511859752 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-03-09-opw-mediawiki-spelling-dictionary-week-13.markdown":
+  mtime: 2015-04-04 03:50:52.991729400 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+? "/home/tricksy/projects/ankitashukla.github.io/pixyll/_posts/2015-03-10-mediawiki-opw-an-overview-of-the-entire-journey-till-now.markdown"
+: mtime: 2015-04-04 03:50:13.763285338 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/404.md":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/center.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/about.md":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/page.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/contact.html":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/page.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/feed.xml":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/index.html":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps:
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/pagination.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html"
+  - "/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html"
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/CNAME":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/LICENSE.txt":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/README.md":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-114x114.png":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-120x120.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-144x144.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-152x152.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-180x180.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-57x57.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-60x60.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-72x72.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon-76x76.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/apple-touch-icon.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/favicon-160x160.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/favicon-16x16.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/favicon-192x192.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/favicon-32x32.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/favicon-96x96.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/icons/favicon.ico":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/images/me.jpeg":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/post.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/head.html":
+  mtime: 2015-04-04 03:48:51.206349838 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/page.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/pagination.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/header.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/navigation.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_includes/footer.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/default.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/_layouts/center.html":
+  mtime: 2015-04-04 02:47:03.214730602 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/images/spellingdictionary.png?w=300":
+  mtime: 2015-04-02 01:39:09.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/images/spellingdictionaryadmin.png?w=300":
+  mtime: 2015-04-02 01:39:10.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/images/viewall.png?w=300":
+  mtime: 2015-04-02 01:39:11.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/images/viewbylanguage.png?w=300":
+  mtime: 2015-04-02 01:39:11.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/favicon-160x160.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/favicon-16x16.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/favicon-192x192.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/favicon-32x32.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/favicon-96x96.png":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/favicon.ico":
+  mtime: 2015-04-04 02:47:03.218730660 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/assets/spellingdictionary.png?w=300":
+  mtime: 2015-04-02 01:39:09.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/assets/spellingdictionaryadmin.png?w=300":
+  mtime: 2015-04-02 01:39:10.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/assets/viewall.png?w=300":
+  mtime: 2015-04-02 01:39:11.000000000 +05:30
+  deps: []
+"/home/tricksy/projects/ankitashukla.github.io/pixyll/assets/viewbylanguage.png?w=300":
+  mtime: 2015-04-02 01:39:11.000000000 +05:30
+  deps: []
