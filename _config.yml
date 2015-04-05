@@ -4,7 +4,7 @@ email:       ankitashukla707@gmail.com
 author:      Ankita Shukla
 description: "Ankita's personal blog."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 
 # Google analytics
 google_analytics:
