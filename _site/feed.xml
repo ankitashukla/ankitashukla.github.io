@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pixyll</title>
+    <description>Ankita&#39;s personal blog.</description>
+    <link>http://pixyll.com/</link>
+    <atom:link href="http://pixyll.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>OPW 2014-15 Wrap-up - An Overview Of The Entire Journey (Till Now...)</title>
+        <description>&lt;p&gt;I had been working on the project “Spelling Dictionary” extension as an &lt;a href=&quot;gnome.org/opw/&quot;&gt;OPW 2014&lt;/a&gt; intern with MediaWiki. The OPW internship may have come to an end officially but the experience I gained here has managed to get me going even beyond! :)&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;The project aimed at creating an extension where users could add numerous spellings(words) and these could then be used for spell-check. This required a user panel (made) where the user may submit spellings and the corresponding language. Apart from this, it also required an admin panel (this also made) where the admin can view the spellings submitted by the users and delete or edit any in the table if need be.&lt;/p&gt;
+
+&lt;p&gt;The basic functional prototype of the project and which was promised in the proposal has been completed in time. I would, however, continue adding more features to it and improve it further.&lt;/p&gt;
+
+&lt;p&gt;It had been a great journey and I thoroughly enjoyed doing each and every task. I not only appreciate the tech and coding-related things I learnt here but a lot more like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Making workboards - modularizing the tasks&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Plan a project timeline before starting - helps in materializing the project idea and in a more successful implementation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Regular meetings with mentor - helps in realizing and identifying sources of errors/mistakes, and plan things in a more organized manner. Plus the motivational support! :)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Commit your code regularly - consistent track of the progress of the project. Safe from any kind of data loss&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Community interaction - Helps in making connections and is a great symbiotic environment for learning&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are just a few to list! This is truly an admirable initiative and I thank everyone who has been involved in providing us with such a great opportunity!
+I got to know some really amazing people and was lucky to have Kartik as my mentor, the most helping mentor ever! \m/&lt;/p&gt;
+
+&lt;p&gt;I am happy to help anyone and everyone who wish to contribute in open-source. In fact, partly because of this blog, and partly due to &lt;a href=&quot;https://www.mediawiki.org/wiki/User:Ankitashukla&quot;&gt;my MediaWiki user page&lt;/a&gt;, I have already had a few fellow open-source enthusiasts who wanted to know about open-source coding in general and MediaWiki in particular. I’m glad to inform that they are getting involved with the community now and are moving ahead.&lt;/p&gt;
+
+&lt;p&gt;Additionally, I’m taking up this opportunity to thank OPW for getting me into the habit of writing regular blog posts and thank Kartik for suggesting that I continue this in future. I enjoy this and will definitely continue being active on my blog here! :)&lt;/p&gt;
+
+&lt;p&gt;Moreover,I saved the best  part for the last. :)
+So, last but definitely not the least, I’m going to continue collaborating in projects under MediaWiki in general even after I am totally done with Spelling Dictionary. :)&lt;/p&gt;
+
+&lt;p&gt;Hurray! :D&lt;/p&gt;
+
+&lt;p&gt;Here are all the links relevant to the project:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Weekly reports &lt;a href=&quot;https://www.mediawiki.org/wiki/Collaborative_spelling_dictionary/Progress&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Project functional prototype: &lt;a href=&quot;https://github.com/ankitashukla/mediawiki-spelling-dictionary&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tasks created for known bugs, missing features, and suggested improvements: &lt;a href=&quot;https://github.com/ankitashukla/mediawiki-spelling-dictionary/issues&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Documentation for users and contributors. &lt;a href=&quot;https://www.mediawiki.org/wiki/User:Ankitashukla/Extension:SpellingDictionary&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wrap-up report: &lt;a href=&quot;https://ankitashukla707.wordpress.com/2015/03/10/mediawiki-opw-an-overview-of-the-entire-journey-till-now/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Summary in &lt;a href=&quot;https://www.mediawiki.org/wiki/Outreachy/Past_projects&quot;&gt;Past projects&lt;/a&gt; page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Phabricator Project Evaluation Task: &lt;a href=&quot;https://phabricator.wikimedia.org/T92243&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And here are a few screenshots of the various screens of Spelling Dictionary:&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_47” align=”aligncenter” width=”300”]&lt;a href=&quot;https://ankitashukla707.files.wordpress.com/2015/03/spellingdictionary.png&quot;&gt;&lt;img src=&quot;https://ankitashukla707.files.wordpress.com/2015/03/spellingdictionary.png?w=300&quot; alt=&quot;Spelling Dictionary Home Page&quot; /&gt;&lt;/a&gt; Spelling Dictionary Home Page[/caption]&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_48” align=”aligncenter” width=”300”]&lt;a href=&quot;https://ankitashukla707.files.wordpress.com/2015/03/spellingdictionaryadmin.png&quot;&gt;&lt;img src=&quot;https://ankitashukla707.files.wordpress.com/2015/03/spellingdictionaryadmin.png?w=300&quot; alt=&quot;Admin Dashboard (Admin Privilege)&quot; /&gt;&lt;/a&gt; Admin Dashboard (Admin Privilege)[/caption]&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_50” align=”aligncenter” width=”300”]&lt;a href=&quot;https://ankitashukla707.files.wordpress.com/2015/03/viewbylanguage.png&quot;&gt;&lt;img src=&quot;https://ankitashukla707.files.wordpress.com/2015/03/viewbylanguage.png?w=300&quot; alt=&quot;View Spellings By Language (Admin Privilege)&quot; /&gt;&lt;/a&gt; View Spellings By Language (Admin Privilege)[/caption]&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_49” align=”aligncenter” width=”300”]&lt;a href=&quot;https://ankitashukla707.files.wordpress.com/2015/03/viewall.png&quot;&gt;&lt;img src=&quot;https://ankitashukla707.files.wordpress.com/2015/03/viewall.png?w=300&quot; alt=&quot;View All Spellings (Admin Privilege)&quot; /&gt;&lt;/a&gt; View All Spellings (Admin Privilege)[/caption]&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 11 Mar 2015 00:39:25 +0530</pubDate>
+        <link>http://pixyll.com/2015/03/11/mediawiki-opw-an-overview-of-the-entire-journey-till-now/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/03/11/mediawiki-opw-an-overview-of-the-entire-journey-till-now/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Week 13</title>
+        <description>&lt;p&gt;Welcome back! It’s the last week of the internship. I have mixed feelings regarding this: I am happy because of the wonderful journey I had and the various new things I learned and sad because it is coming to an end.&lt;/p&gt;
+
+&lt;p&gt;I’ll start with the accomplishments of this week. After my exams, I had a lot of tasks to do, and am happy to inform you all that I was able to manage it all within time (lots of coffee and a few sleepless nights! ;) )&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I started the week by learning in great detail about the user groups and rights management on special pages in MediaWiki. Using the knowledge I gained, I created a new user group ‘spelladmin’ for implementing restricted access on the admin dashboard and other admin-concerned pages. Immediately after this, I was faced with an issue as I was unable to access these pages myself, since I wasn’t an administrator on my MediaWiki installed instance. Therefore, I read about how could one add members to any group and figured out it was done using the createAndPromote.php maintenance script. I ran the following command in the vagrant terminal:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;mwscript createAndPromote.php &amp;lt;span class=&quot;re5&quot;&amp;gt;--bureaucrat --sysop --spelladmin&amp;lt;/span&amp;gt; &amp;lt;username&amp;gt; --force
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And thus I added myself in the sysop, bureaucrat and spelladmin groups. The reason behind using &lt;code&gt;--force&lt;/code&gt; was that I had to grant rights to an already existing user. Moreover, using &lt;code&gt;--force&lt;/code&gt; was the reason why password wasn’t required here.&lt;/p&gt;
+
+&lt;p&gt;Under the final steps of organizing and refactoring the code, I moved parts of code from setup file to newly created separate files for loading resource modules (Resources.php) and for loading classes (Autoload.php). Moreover, I declared the hooks, special pages etc as $GLOBALS in the setup file.&lt;/p&gt;
+
+&lt;p&gt;Another major achievement was the fixing of the bug that had been troubling since a long time - the error asking to set a callback on form submit in the ViewByLanguage special page.&lt;/p&gt;
+
+&lt;p&gt;Apart from this, I added language options in both the dropdowns (Special:SpellingDictionary and Special:ViewByLanguage) using language codes in languages/Names.php. I took care of making the dropdown language entries lexicographic rather than in any random ordering. :)&lt;/p&gt;
+
+&lt;p&gt;In the final phase, I’m improving the documentation for the extension.&lt;/p&gt;
+
+&lt;p&gt;I’d like to take up this opportunity to thank gnome for the wonderful opportunity they are providing us with. I extend my gratitude to Marina and Quim for their patience and support. I am honestly very grateful to my mentor Kartik for his all-time support, guidance and friendly attitude. Last but not the least, a big shout out to all my fellow co-interns! You all are truly awesome and it was really amazing to get to know each one of you. :)&lt;/p&gt;
+
+&lt;p&gt;Although the internship period might be over, but I’ll continue working with MediaWiki and this project in particular. I have worked really hard for this project and would take this to perfection now. :)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2015 18:19:00 +0530</pubDate>
+        <link>http://pixyll.com/2015/03/09/opw-mediawiki-spelling-dictionary-week-13/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/03/09/opw-mediawiki-spelling-dictionary-week-13/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Week 12</title>
+        <description>&lt;p&gt;Hi!&lt;/p&gt;
+
+&lt;p&gt;I started off this week by creating some &lt;a href=&quot;https://github.com/ankitashukla/mediawiki-spelling-dictionary/issues/&quot;&gt;issues&lt;/a&gt; on github and will look into them one by one.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;Unfortunately, due to my ongoing exams (this week to mid of the next week) I have mostly been studying for my examinations.&lt;/p&gt;
+
+&lt;p&gt;By the time, I have created a list of To-Do tasks for the next week:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fix the language selection options in the drop-down: Providing a complete list of all the languages&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fix ajax function calls to Edit a spelling by admin (I have already written the function)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fix ajax function calls to Delete a spelling from the database table by admin&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create user documentation for Extension wiki to help users add spellings to the dictionary.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Restrict access on admin dashboard and other admin-pages&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fix the callback error that is being thrown in ViewByLanguage&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Organized and refactored code&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fix any previous bug&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ll resume my work after the exams with full time devotion. Till then, I’m trying to adjust and manage my time by completing whatever required reading I’ll need further in the course of the project.&lt;/p&gt;
+
+&lt;p&gt;Ciao! :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Mar 2015 12:26:00 +0530</pubDate>
+        <link>http://pixyll.com/2015/03/03/opw-mediawiki-spelling-dictionary-week-12/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/03/03/opw-mediawiki-spelling-dictionary-week-12/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Weeks 10 &amp; 11</title>
+        <description>&lt;p&gt;Hello! :)&lt;/p&gt;
+
+&lt;p&gt;Since the basic prototype has already been made, therefore I am now working towards improving further features. My main focus these days is the use and integration of Ajax and ULS to improve performance and user-experience.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;In these two weeks, I learnt more about ajax and its implementation. I also studied about implementing ajax function calls without creating any extra unnecessary (intermediate) files for the purpose of function calls and execution.&lt;/p&gt;
+
+&lt;p&gt;Under the regular routine discussions with my mentor regarding the project, we talked about the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;various possibilities on the final stage advancements of the project&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;recent code bugs like:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;form submit callback error throw (although the callback is already included)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mediawiki coding convention with respect to ajax function call like&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;
+            &lt;p&gt;where  should the function be defined&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;p&gt;where should it be called etc&lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apart from the above mentioned activities, I also tried debugging the code for the ‘Delete’ ajax function call that I had already written. However, it still needs some more efforts as it is not working satisfactorily.&lt;/p&gt;
+
+&lt;p&gt;Presently, I am working towards the final effects to give the project a complete look. Will update about it soon! :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2015 07:41:00 +0530</pubDate>
+        <link>http://pixyll.com/2015/02/28/opw-mediawiki-spelling-dictionary-weeks-10-11/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/02/28/opw-mediawiki-spelling-dictionary-weeks-10-11/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Weeks 8 &amp; 9</title>
+        <description>&lt;p&gt;Hello!&lt;/p&gt;
+
+&lt;p&gt;I am glad to announce that I have successfully covered half way of a very significant journey of my life. We have just had our mid-term evaluation of the projects! And Spelling Dictionary is ahead of its timeline. :)&lt;/p&gt;
+
+&lt;p&gt;With much more enthusiasm, I kicked off Week 8! :D&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I created a new css file with definitions for the classes I added to the HTML tags. Next, the file was loaded in SpellingDictionary.php . Additionally, I worked on admin page and added a direct link (on the admin dashboard) to the form for adding spellings. Also, added a dropdown for language selection and added corresponding messages in en.json.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, this time there was a significant gap in the MediaWiki code update on my system. Hence, the MediaWiki core update had left the extension code broken at some places. So, I started off the 9th week by fixing errors in form-display due to core update and updated code as per latest form-object definitions. Moving on with the admin functionalities, I wrote the function for deleting any spelling directly from the admin dashboard. Following this, I improved it by using an ajax function for deleting spelling from table (which is called when admin clicks on “Delete” in order to delete any spelling from the table).&lt;/p&gt;
+
+&lt;p&gt;Moreover, I removed the originally hard-coded values for language selection and wrote code to select language from drop-downs, thus providing option to choose language to view spellings. Another major modification here was passing of complete formdata to function instead of explicit field data while selecting language to view words.&lt;/p&gt;
+
+&lt;p&gt;Finally, as per the regular code-base cleaning regime, I removed some unnecessary (js) files and cleaned up the code.&lt;/p&gt;
+
+&lt;p&gt;That was all for these two weeks.
+Catch you all back later with the progress of the further weeks.&lt;/p&gt;
+
+&lt;p&gt;Cheers! :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Feb 2015 07:35:00 +0530</pubDate>
+        <link>http://pixyll.com/2015/02/15/opw-mediawiki-spelling-dictionary-weeks-8-9/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/02/15/opw-mediawiki-spelling-dictionary-weeks-8-9/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Week 7</title>
+        <description>&lt;p&gt;Hello folks! :)&lt;/p&gt;
+
+&lt;p&gt;This week was of great importance as it was the last week before the mid-term evaluations, thus marking mid-way milestone of the project! :)&lt;/p&gt;
+
+&lt;p&gt;One very important task was to provide the option of importing and exporting to the admin. Therefore, I started this week by including page import/export options for admin on his dashboard.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;I added a new section for import/export of spellings-list. In order to maintain consistency within the project and the coding conventions of MediaWiki, I utilized the special pages defined in Special Page Factory for importing and exporting.  I wrote a function to return such pre-defined special pages as admin page section’s items.&lt;/p&gt;
+
+&lt;p&gt;By clicking on either of import or export, the admin will be able to perform the standard activities of being able to directly import or export any page to/from the project. Each link opens up a new page for performing the desired task.&lt;/p&gt;
+
+&lt;p&gt;Apart from this, I changed the code used for displaying spellings to show them in form of columns of spelling and language rather than statements.&lt;/p&gt;
+
+&lt;p&gt;The main focus of the upcoming weeks will now be working on the UI, improving the method to take user input (using ULS), improving user experience etc.&lt;/p&gt;
+
+&lt;p&gt;Tiil then, happy coding! :D&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jan 2015 18:03:58 +0530</pubDate>
+        <link>http://pixyll.com/2015/01/28/opw-mediawiki-spelling-dictionary-week-7/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/01/28/opw-mediawiki-spelling-dictionary-week-7/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Weeks 5 &amp; 6</title>
+        <description>&lt;p&gt;Hello again!&lt;/p&gt;
+
+&lt;p&gt;I’m glad to announce that weeks 5 and 6 saw a significant progress. I started off in the 5th week by some minor tweaks that needed to be fixed and then moved on to other more important issues.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;Week 5 was started by organizing the pages and the display of the pages. So, the first step in this direction was the moving of the spelling-word-list display from admin special page to another special page (Special:ViewAll) meant for displaying all the spellings stored in the database. This was necessary to keep the admin page clear of clutter and supporting the idea that the admin dashboard should only have links to various other pages and sections.&lt;/p&gt;
+
+&lt;p&gt;The next move was to write code for organizing the various items/links on admin dashboard. The data structure being used resembles a tree and has various sections (as branches). Each section in turn has items (as leaves) linking to different pages. I wrote class-definitions to be used to display items on admin page which was further sub-divided as:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Main tree class for the admin page&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Class to add section to admin page tree&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Class to add the various items/links in every section&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I completed the above mentioned classes as part of my week 5 to display the various sections. Next, I had to link the items under each section to other pages, so that when admin clicks on any item, he is redirected to that page.  Therefore, I wrote code to retrieve another special page for the same too during week 5 (to be used when admin clicks on one of the links like ‘Browse all words’).&lt;/p&gt;
+
+&lt;p&gt;Finally, I coded and initialized the tree to be displayed and completed week 5 on a happy note. :)&lt;/p&gt;
+
+&lt;p&gt;For the sixth week, I startred off by displaying a section’s text by writing a function that converts object to string for displaying. I had faced an error saying that an object can’t be displayed like a string and therefore made this part really important. Once this was achieved, I wrote code to display the text in each section, which would be links to other pages. In the first phase, the page name was being displayed in the form of Special:PageName format. Therefore, I had to change the code to display text for page name on admin page.&lt;/p&gt;
+
+&lt;p&gt;Moreover, I took care of any previous inconsistency that might have happened and reorganized the code in proper MVC architecture by dividing this in sub-tasks like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rewrote the code as per MW coding conventions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Moved the code to display all words to a class’s function, and used that to display all words&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I optimized the UI by checking for the number of items in any section while adding an item and ensuring proper spacing between different items.&lt;/p&gt;
+
+&lt;p&gt;I then, created a special page for displaying words sorted by language (where the admin could select a language and see the spellings of that language). This was followed by adding a corresponding item on admin page to show words sorted by language.&lt;/p&gt;
+
+&lt;p&gt;The end for week 6 was marked by completing several small but important tasks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Added alias for ViewByLanguage page&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modified message names and added more messages in the localisation files&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Added message names to localisation file and updated message names in corresponding file&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thus, the end of both the weeks witnessed a significant progress and have been a great learning experience as always. :)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jan 2015 09:52:33 +0530</pubDate>
+        <link>http://pixyll.com/2015/01/28/opw-mediawiki-spelling-dictionary-weeks-5/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/01/28/opw-mediawiki-spelling-dictionary-weeks-5/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Weeks 3 &amp; 4</title>
+        <description>&lt;p&gt;Happy new year friends! (Better late than never, right? :)) I wish you all have a wonderful 2015 ahead and hope you had as awesome a start as I had!&lt;/p&gt;
+
+&lt;p&gt;Moving on to the progress of the project, weeks 3 and 4 had a greater amount of work done in the former week.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;However the latter had the timings to be adjusted for my journey to my college. This was further delayed due to the heavy fogs in north India and the resulting zero visibility.&lt;/p&gt;
+
+&lt;p&gt;I triggered off the third week by setting up the code for database access. This was required since I had to store the words submitted by users in a database. Related to this, I also wrote a hook for schema update to directly update the database with a corresponding table.&lt;/p&gt;
+
+&lt;p&gt;Once, I was done with setting up the table, I next moved on to writing the code for storing words submitted by a user into the table. :)&lt;/p&gt;
+
+&lt;p&gt;Next, I created a Special page for admins - /Special:SpellingDictionaryAdmin. I completed week 3 by writing the code to access and display all words on the admin special page. This completes most of the part required to store and retrieve words from database.&lt;/p&gt;
+
+&lt;p&gt;Moving on, Kartik and I next discussed about the design of the admin page. We landed upon the decision of using a tree-like-structure as backbone. I read about the various possibilities in this aspect. I also studied the codes of a few extension to get an idea about the implementation part specially &lt;a href=&quot;https://www.mediawiki.org/wiki/Extension:Admin_Links&quot;&gt;this&lt;/a&gt;. Alongside, I fixed several small issues, an important one being the check for an existing table before creating one. I utilized my travel time as much as I could in cleaning up the code. Meanwhile, I updated documentation (README) as well with more elaborate and user friendly guidelines.&lt;/p&gt;
+
+&lt;p&gt;(I could not accomplish much this week as I had been travelling for the most part and had some issues with my laptop. It’s working fine now after almost killing me by threatening me of complete data as well as environment loss! :) )&lt;/p&gt;
+
+&lt;p&gt;That was all folks! :)&lt;/p&gt;
+
+&lt;p&gt;I’ll soon update about weeks 5 and 6 (Week 5 is going on great with a lot being done, and since most of it is new, I’m learning a lot through the way! :) )&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 23:00:35 +0530</pubDate>
+        <link>http://pixyll.com/2015/01/11/opw-mediawiki-spelling-dictionary-weeks-3-4/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/01/11/opw-mediawiki-spelling-dictionary-weeks-3-4/</guid>
+      </item>
+    
+      <item>
+        <title>OPW MediaWiki Spelling Dictionary: Weeks 1 &amp; 2</title>
+        <description>&lt;p&gt;The last two weeks have been quite a learning experience. I had already been discussing various aspects of the project like the special pages, database structures and other design aspects with my mentor towards the end phase of the community bonding period. So, the major research part was already handled before the start of week 1! ;)&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I accomplished the aimed basics in these two weeks and switched among certain objectives of the initial timeline after discussing with my mentor as it seemed better-suited.&lt;/p&gt;
+
+&lt;p&gt;I had a hangout with my mentor Kartik and discussed the tasks for the first week. Meanwhile, I had some wonderful time fixing my mediawiki-vagrant install! No, I mean literally! I was getting a page with some cryptic errors! I tried few tricks and tips, couldn’t succeed, asked on irc {(un)fortunately during the lazy hours}, got no response and got back to trying myself. And tada! I fixed my mediawiki-vagrant install bugs without any help! :)&lt;/p&gt;
+
+&lt;p&gt;Once done with the &lt;em&gt;adventure&lt;/em&gt; I next took up some reading where I read extensively about developing an extension from &lt;a href=&quot;https://www.mediawiki.org/wiki/Manual:Developing_extensions&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker/Extension_Writing_Tutorial&quot;&gt;here&lt;/a&gt;. These are well documented wikis providing guidance and insight to new developers towards MediaWiki extension development. My mentor also suggested I browse the code of &lt;a href=&quot;https://github.com/wikimedia/mediawiki-extensions-TwnMainPage&quot;&gt;TwnMainPage extension&lt;/a&gt; to get an idea of a functional extension. I cloned the extension template and experimented with the code to learn about the various features of extension and extension development.&lt;/p&gt;
+
+&lt;p&gt;Additionally, during the first week, I set up the directory structure for SpellingDictionary extension and pushed the code to &lt;a href=&quot;https://github.com/ankitashukla/mediawiki-spelling-dictionary&quot;&gt;github&lt;/a&gt;. Adding a (GPL) License to the project provided me an opportunity to get acquainted with the practice of adding license to a project and the various licenses used by open source software.&lt;/p&gt;
+
+&lt;p&gt;The second week started with deciding up on the most suited database for the spelling dictionary based on the previous research done during the community bonding period. I next setup the database and the table for storing words.&lt;/p&gt;
+
+&lt;p&gt;We established on setting up the user dashboard on the Spelling Dictionary special page. So, the week was spent deciding upon the dashboard for the project and the UI of the Special page with my mentor. Meanwhile I browsed through the Content Translation (beta) page and the code to attain familiarity with the same. I have been experimenting with the special page.&lt;/p&gt;
+
+&lt;p&gt;Next week shall be focusing on setting up a form on the special page for the user to submit words and start the work on the admin page.&lt;/p&gt;
+
+&lt;p&gt;Shall keep updating! :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Dec 2014 22:52:08 +0530</pubDate>
+        <link>http://pixyll.com/2014/12/23/opw-mediawiki-spelling-dictionary-weeks-1-2/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/12/23/opw-mediawiki-spelling-dictionary-weeks-1-2/</guid>
+      </item>
+    
+      <item>
+        <title>The First Step In The World Of FOSS</title>
+        <description>&lt;h4 id=&quot;hello-world&quot;&gt;Hello World!&lt;/h4&gt;
+
+&lt;p&gt;Welcome to my first ever blog and blog post!
+I had been contemplating of getting started with a blog for some time now but each time the plan got postponed due to some or the other reason. A pro-procrastinator I am!&lt;/p&gt;
+
+&lt;p&gt;However, I took the words of wisdom “Better late than never” quite seriously and so here I am! Another motivation for this new start was the need to blog every fortnightly with regard to my winter intern project.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;And this is the project that the title speaks of. My first acquaintance with Open Source Software was only after I joined college. The new notions of being able to contribute to a  project and the ‘mysterious’ communities got me involved into exploring the field. Influenced by two of my very good friends, I took up wikimedia as the chosen one. I have been a regular user of the services offered by the mediawiki community and was super-excited to be a contributorto the same. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Landing and first meeting with mentors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I started spending some time analysing the activities on the irc channels of mediawiki and picking up the norms of communication over irc, developed some idea about bug tracker (It was &lt;a href=&quot;http://bugzilla.wikimedia.org/&quot;&gt;bugzilla&lt;/a&gt; then and has now been migrated to &lt;a href=&quot;https://phabricator.wikimedia.org/&quot;&gt;phabricator&lt;/a&gt;) and ultimately started with the mw-installation. I started discussing the issues I faced during installation on irc. Overwhelmed by the wonderful support of the community, I took a step forward and started by working on a bug. Around the same time after I submitted my first patch, I figured out about the existence of various programs that help the novices mingle better with the community and become regular contributors. I had a lot of information and names to process in that phase and then came &lt;a href=&quot;http://opw.gnome.org&quot;&gt;Gnome’s Outreach Program&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;I applied for the program to work on the &lt;a href=&quot;https://www.mediawiki.org/wiki/Spelling_Dictionary&quot;&gt;collaborative spelling dictionary&lt;/a&gt; project, discussed the whole idea with my mentors and drafted a proposal of my ideas for the project. And here I am, discussing it all since I got accepted by the program!&lt;/p&gt;
+
+&lt;p&gt;It has been a great experience since the first day I got involved with the wikimedia community! Everyone is way too supportive and is ever-ready to help. I had received immense support and help from the community on the irc channels during the problems I faced in the initial phase, be it during mw-installation, configuration errors or a patch submission!). This is what prompted me to be a regular contributor to wikimedia and to participate in the &lt;a href=&quot;http://opw.gnome.org/&quot;&gt;Outreach program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My first meeting with my mentors was quite a learning experience. From the first day onwards, they have always been guiding me. The best part has been that they don’t spoon-feed me, rather, they show me the direction and I learn by exploring stuff. This has really been very helpful!&lt;/p&gt;
+
+&lt;p&gt;I have developed quite a friendly relationship with my mentors in particular and thus it gets easy to discuss any idea with them. Also, my mentors are available most of the time and as such there’s no problem in communicating. Another plus point is the same time zone I share with &lt;a href=&quot;https://www.mediawiki.org/wiki/User:KartikMistry&quot;&gt;Kartik&lt;/a&gt; which facilitates our interactions without any concern of time clashes. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lessons learned since 22 November&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am very excited about expanding my knowledge and learn as much as possible and beyond. :)
+Here is a very small list of the multitude of lessons I learnt since the beginning of the program:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Got familiar with the VE codebase&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set up a &lt;a href=&quot;https://github.com/ankitashukla/spelling-dictionary-opw&quot;&gt;github repo&lt;/a&gt; and initiated it with a README and developer.md files&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Documented ideas for possible dictionary structures and demonstrated them to my mentor through email as well as google doc&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Understood how various MediaWiki IRC channels are used&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Attended OPW career advising meeting for OPW Interns on #opw (irc.gnome.org) on November 26th, 8:30 AM (PST)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Co-ordination with other related projects is desirable wherever possible&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Created a conpherence on &lt;a href=&quot;http://phabricator.wikimedia.org/&quot;&gt;phabricator&lt;/a&gt; and invited the mentors&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Communication Plan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We have decided to regularly communicate through the following mediums:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Complete weekly &lt;a href=&quot;https://www.mediawiki.org/wiki/User:Ankitashukla/Progress_Reports&quot;&gt;progress reports&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check in daily with mentors over hangouts and/or IRC&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Share Google calendars&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Communicate with other mentors over IRC and email with questions, to look over code, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Regularly write &lt;a href=&quot;http://ankitashukla707.wordpress.com/&quot;&gt;blog posts&lt;/a&gt; about the progress of the project&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Regularly report to my mentors about the progress and problems encountered, via emails or hangouts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use phabricator conpherence for brainstorming purposes and discussing ideas&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It has been a wonderful journey from day zero, when I first decided to be a part of the OSS community and I positively hope to continue this. I’ll additionally try to help out anyone and everyone who wishes to start contributing in the open source software. (Drop me a message if you want any help and I’ll definitely reply back with whatever help I can offer. :) )&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Dec 2014 17:22:25 +0530</pubDate>
+        <link>http://pixyll.com/2014/12/09/the-first-step-in-the-world-of-foss/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/12/09/the-first-step-in-the-world-of-foss/</guid>
+      </item>
+    
+  </channel>
+</rss>

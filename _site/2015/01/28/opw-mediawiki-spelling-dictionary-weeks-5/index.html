@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>OPW MediaWiki Spelling Dictionary: Weeks 5 & 6 &#8211; Pixyll</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Ankita's personal blog.">
+    <meta name="author" content="Ankita Shukla">
+    <meta name="keywords" content="">
+    <link rel="canonical" href="http://pixyll.com/2015/01/28/opw-mediawiki-spelling-dictionary-weeks-5/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css" type="text/css">
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="OPW MediaWiki Spelling Dictionary: Weeks 5 & 6">
+    <meta property="og:description" content="Ankita's personal blog.">
+    <meta property="og:url" content="http://pixyll.com/2015/01/28/opw-mediawiki-spelling-dictionary-weeks-5/">
+    <meta property="og:site_name" content="Pixyll">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="icons/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="icons/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="icons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="icons/favicon-32x32.png" sizes="32x32">
+</head>
+
+<body class="">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://pixyll.com" class="site-title">Pixyll</a>
+      <nav class="site-nav right">
+        <a href="/about/">About</a>
+<a href="/contact/">Contact</a>
+
+      </nav>
+      <div class="clearfix"></div>
+      
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>OPW MediaWiki Spelling Dictionary: Weeks 5 & 6</h1>
+  <span class="post-meta">Jan 28, 2015</span><br>
+  
+  <span class="post-meta small">3 minute read</span>
+</div>
+
+<article class="post-content">
+  <p>Hello again!</p>
+
+<p>I’m glad to announce that weeks 5 and 6 saw a significant progress. I started off in the 5th week by some minor tweaks that needed to be fixed and then moved on to other more important issues.</p>
+
+<!-- more -->
+<p>Week 5 was started by organizing the pages and the display of the pages. So, the first step in this direction was the moving of the spelling-word-list display from admin special page to another special page (Special:ViewAll) meant for displaying all the spellings stored in the database. This was necessary to keep the admin page clear of clutter and supporting the idea that the admin dashboard should only have links to various other pages and sections.</p>
+
+<p>The next move was to write code for organizing the various items/links on admin dashboard. The data structure being used resembles a tree and has various sections (as branches). Each section in turn has items (as leaves) linking to different pages. I wrote class-definitions to be used to display items on admin page which was further sub-divided as:</p>
+
+<ol>
+  <li>
+    <p>Main tree class for the admin page</p>
+  </li>
+  <li>
+    <p>Class to add section to admin page tree</p>
+  </li>
+  <li>
+    <p>Class to add the various items/links in every section</p>
+  </li>
+</ol>
+
+<p>I completed the above mentioned classes as part of my week 5 to display the various sections. Next, I had to link the items under each section to other pages, so that when admin clicks on any item, he is redirected to that page.  Therefore, I wrote code to retrieve another special page for the same too during week 5 (to be used when admin clicks on one of the links like ‘Browse all words’).</p>
+
+<p>Finally, I coded and initialized the tree to be displayed and completed week 5 on a happy note. :)</p>
+
+<p>For the sixth week, I startred off by displaying a section’s text by writing a function that converts object to string for displaying. I had faced an error saying that an object can’t be displayed like a string and therefore made this part really important. Once this was achieved, I wrote code to display the text in each section, which would be links to other pages. In the first phase, the page name was being displayed in the form of Special:PageName format. Therefore, I had to change the code to display text for page name on admin page.</p>
+
+<p>Moreover, I took care of any previous inconsistency that might have happened and reorganized the code in proper MVC architecture by dividing this in sub-tasks like:</p>
+
+<ul>
+  <li>
+    <p>Rewrote the code as per MW coding conventions</p>
+  </li>
+  <li>
+    <p>Moved the code to display all words to a class’s function, and used that to display all words</p>
+  </li>
+</ul>
+
+<p>I optimized the UI by checking for the number of items in any section while adding an item and ensuring proper spacing between different items.</p>
+
+<p>I then, created a special page for displaying words sorted by language (where the admin could select a language and see the spellings of that language). This was followed by adding a corresponding item on admin page to show words sorted by language.</p>
+
+<p>The end for week 6 was marked by completing several small but important tasks:</p>
+
+<ul>
+  <li>
+    <p>Added alias for ViewByLanguage page</p>
+  </li>
+  <li>
+    <p>Modified message names and added more messages in the localisation files</p>
+  </li>
+  <li>
+    <p>Added message names to localisation file and updated message names in corresponding file</p>
+  </li>
+</ul>
+
+<p>Thus, the end of both the weeks witnessed a significant progress and have been a great learning experience as always. :)</p>
+
+</article>
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+  <div class="p2 wrap">
+    <div class="measure mt1 center">
+      <small>
+        Crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
+        &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
+      </small>
+    </div>
+  </div>
+</footer>
+
+
+
+</body>
+</html>
