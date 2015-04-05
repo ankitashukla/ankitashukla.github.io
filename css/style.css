@@ -1,8 +1,13 @@
-@import url('BebasNeue Light.ttf');
+/*@import url('css/Lato2OFL/Lato2OFL/Lato-Hairline.ttf');*/
 
 @font-face {
-    font-family: "nokia-pure-headline-ultralight";
-    src: url("nokiapure.woff") format('woff');
+	font-family: "Lato-Thin";
+	src: url("Lato2OFL/Lato2OFL/Lato-Thin.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: "lato-hairline";
+	src: url("Lato2OFL/Lato2OFL/Lato-Hairline.ttf") format('truetype');
 }
 html {
 	height: 100%;
@@ -10,8 +15,12 @@ html {
 
 body {
 	margin-top: 0;
-	font-family: "nokia-pure-headline-ultralight";
+	font-family: "Lato-Thin";
 	font-weight: 100;
+	background: url('../images/laptop.jpg');
+	background-size: 100% 100%;
+	z-index: -1;
+	overflow-y: hidden; 
 }
 
 a {
@@ -26,10 +35,21 @@ a {
 	text-align: center;
 	position: relative;
 	top: 100px;
+	color: rgb(15, 9, 26);
+}
+
+#desc {
+	font-family: "Lato-Thin";
+	font-size: 25px;
+	position: relative;
+	top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
 }
 
 .logo {
-	height: 40px;
+	height: 60px;
 }
 
 .social {
@@ -38,4 +58,26 @@ a {
 	margin-right: auto;
 	margin-left: auto;
 	text-align: center;
+}
+
+.logo:hover {
+	height: 65px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 40px;
+	line-height: 40px;
+	background-color: #3B1F2D;
+}
+
+.text-muted {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	text-align: center;
+	color: white;
 }
