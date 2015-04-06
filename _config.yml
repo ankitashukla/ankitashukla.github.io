@@ -49,5 +49,5 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
-paginate_path: "/pixyll/page:num/"
+paginate_path: "/blog/page:num/"
 gems: [jekyll-paginate]
